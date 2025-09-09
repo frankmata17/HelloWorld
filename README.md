@@ -2,8 +2,6 @@
 
 In this project, I created a JS file so I can print "Hello World!"
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 I used GitHub to create my repository, VS Code to write my code, and YouTube to host my demo video.
